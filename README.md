@@ -26,7 +26,7 @@ py manage.py migrate
 ```
 py manage.py createsuperuser
 ```
-- Add users
+- Add users <br />
 Go to `localhost:8000/admin` and Login <br />
 Go to http://localhost:8000/admin/auth/user/ <br />
 Add user by clicking `ADD USER` button on right up corner <br />
