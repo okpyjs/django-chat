@@ -41,7 +41,7 @@ docker run -p 6379:6379 -d redis:5
 
 ### 4. Test App
 - Open serveral browsers <br />
-- On each browser, follow below <br />
+- On each browser, follow below two steps <br />
 - Go to `localhost:8000/admin` and Login <br />
 - Go to http://localhost:8000/chat/default/ <br />
 - Enjoy
