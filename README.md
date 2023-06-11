@@ -48,4 +48,5 @@ docker run -p 6379:6379 -d redis:5
 
 ## Reference URL
 [Introduction to Django Channels][Channels]
+
 [Channels]: https://testdriven.io/blog/django-channels
